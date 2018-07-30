@@ -1,0 +1,56 @@
+<resources>
+
+    <string name="app_name">Quiz</string>
+
+
+
+    <string name="question1">1. What is the Capital of India?</string>
+
+    <string name="question1_choice1">Kerala</string>
+
+    <string name="question1_choice2">Mumbai</string>
+
+    <string name="question1_choice3">New Delhi</string>
+
+    <string name="question2">2. Which is the tallest building in the world?</string>
+
+    <string name="question2_choice1">Twin Towers</string>
+
+    <string name="question2_choice2">Burj Khalifa</string>
+
+    <string name="question2_choice3">Taj Mahal</string>
+
+    <string name="question3">3. Most abundant gas  in the atmosphere?</string>
+
+    <string name="question3_choice1">Oxygen</string>
+
+    <string name="question3_choice2">Carbon dioxide</string>
+
+    <string name="question3_choice3">Nitrogen</string>
+
+    <string name="question4">4.Which is the longest river?</string>
+
+    <string name="question4_choice1">Nile</string>
+
+    <string name="question4_choice2">Ganges</string>
+
+    <string name="question4_choice3">Amazon river</string>
+
+    <string name="question5">5.How was the quiz?</string>
+
+    <string name="question5_choice1">Very Bad</string>
+
+    <string name="question5_choice2">Wow Awesome</string>
+
+    <string name="question5_choice3">Average</string>
+
+
+
+
+    <string name="submit_answers">Submit Answers</string>
+
+
+
+
+
+</resources>
